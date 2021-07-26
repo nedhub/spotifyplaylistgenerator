@@ -9,6 +9,7 @@ Check out the video at: https://www.youtube.com/watch?v=3vvvjdmBoyc&list=PL-wATf
 ## Install
 Install the necessary Python packages by running:
 
+
 `$ pip install -r requirements.txt`
 
 ## Run
